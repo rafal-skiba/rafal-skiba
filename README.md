@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in gym, financial markets and front-end programming.
 - 🌱 I have recently completed a 6 month Junior Front End Developer course at the InfoShare Academy where I learnt HTML, CSS, JavaScript, React, Git, GitHub
-- ⚡ here you can check my project:
+- ⚡ Here you can check my project:
   - [todo_list](https://todo-list-skiba.netlify.app/)
   - [web application for searching and adding apartments for long-term rental](https://najemnicy.netlify.app/)
 - 📫 How to reach me: [LinkedIn - @rafal-skiba](https://www.linkedin.com/in/rafal-skiba/)
