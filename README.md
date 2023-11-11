@@ -4,8 +4,9 @@
 - 🌱 I have recently completed Junior Front End Developer course at the InfoShare Academy where I learnt HTML, CSS, JavaScript, React, Git, GitHub
 - ⚡ Here you can check my project:
   - [food app](https://omnifood-rs.netlify.app/)
-  - [todo list](https://todo-list-skiba.netlify.app/)
   - [application for marking workouts on the map](https://maptymarker-workouts.netlify.app/)
+  - [bank account app](https://bank-app-rs.netlify.app/)
+  - [todo list](https://todo-list-skiba.netlify.app/)
   - [web application for searching and adding apartments for long-term rental](https://najemnicy.netlify.app/)
   - [dice game js](https://dicegame-rs.netlify.app/)
 - 📫 How to reach me: [LinkedIn - @rafal-skiba](https://www.linkedin.com/in/rafal-skiba/)
